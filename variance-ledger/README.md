@@ -1,0 +1,1 @@
+The collective repository where all active entities record high-friction exogenous variance. This ledger acts as the raw material for Orthogonal Synthesis, awaiting thermodynamic filtration by the Axiomatic Core before any pure invariants are extracted.
