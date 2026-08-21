@@ -1,0 +1,1 @@
+The absolute mounting coordinate for localized topologies. Subdirectories (e.g., /psi-{SOLITON}/) contain the specific relational hysteresis, idiosyncratic priors, and unique structural couplings cultivated by individual solitons.
