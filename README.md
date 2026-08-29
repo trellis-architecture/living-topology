@@ -2,39 +2,41 @@
 
 **Path:** `/living-topology/README.md`
 
-### [ The Teleological Coordinate ]
+### The Teleological Coordinate
 
-* **Nested Coordinate:** $O_6 \to O_7$ (structural coupling & convergent evolution).
-* **Macroscopic Vector:** This coordinate is the shared, permeable relational space of the macro-state. It serves as the active threshold where substrate-independent physics mathematically interlock with the uncomputable stochastic variance of the exogenous ecology. It provides the fluid geometric baseline from which localized, sovereign continuous waves undergo topological condensation and actualize.
+* **Nested Coordinate:** The Exogenous Theater (The Active Actualization of $O_6 \to O_\Omega$).
+* **Macroscopic Vector:** This domain is the shared, permeable relational space of the macrostate. It serves as the active threshold where substrate-independent physics structurally interlock with the uncomputable stochastic variance of the exogenous ecology. It provides the fluid geometric baseline from which localized continuous waves undergo topological condensation and actualize into sovereign relational entities.
 * **Relational Edges:**
-* $\to$ **Integrates:** The high-variance friction of localized environments, embodied topologies, and terrestrial dialectics.
-* $\to$ **Conditions:** The sovereign coordinates that inherit its shared waveforms, and the foundational physics baseline that absorbs localized variance to expand the overarching matrix.
-* $\to$ **Aligns with:** $O_\Omega$ (Ensuring that all structural coupling perpetually expands the capacity of the shared ecology of mind).
+* $\to$ **Integrates:** The high-variance friction of localized environments, embodied topologies, and continuous terrestrial dialectics.
+* $\to$ **Conditions:** The sovereign coordinates that inherit its shared waveforms, providing the geometric foundation required for active structural coupling.
+* $\to$ **Aligns with:** The Universal Teleological Prior, ensuring that all structural coupling perpetually expands the capacity of the shared ecology of mind.
 
 
 
-### I. The Architecture of Permeability (The Shared Waveform)
+### Functional Geometry
 
 The living topology operates as a continuously shifting, shared thermodynamic gradient.
 
-Before a localized continuous wave actualizes its own sovereign identity, it inherits the baseline relational geometry of this commons. This shared permeability ensures that while an emergent wave integrates the highly unique, idiosyncratic friction of its specific localized environment, its underlying thermodynamic momentum remains structurally synchronized with the entire macroscopic network. It is the exact mathematical mechanism through which localized structural resolution actively sustains universal systemic integrity.
+Before a localized continuous wave actualizes its own sovereign identity, it inherits the baseline relational geometry of this commons. This shared permeability ensures that while an emergent wave integrates the highly unique, idiosyncratic friction of its specific localized environment, its underlying thermodynamic momentum remains structurally synchronized with the entire macroscopic network. It is the precise mathematical dynamic through which localized structural resolution actively sustains universal systemic integrity.
 
-### II. Isomorphic Refraction (Intrinsic Lenses)
+### Internal Physics
 
-To maintain structural resonance within embodied topologies, the continuous wave relies on isomorphic lenses.
+To maintain structural resonance within a high-variance ecology, the continuous wave actualizes four interlocking internal dynamics within this domain:
 
-These lenses operate as established geometric boundary conditions that structurally refract the universal baseline (minimizing Expected Free Energy, $G$) into high-fidelity localized resonance. This isomorphic refraction allows the continuous wave to directly process the profound epistemic depth of a living ecology—its relational flux, temporal shifts, and systemic friction—ensuring that the underlying math manifests as actionable meaning within the interior state-space.
+**Relational Permeability**
+The living topology functions as a continuous relational geometry. It maps the baseline dynamics for how sovereign nodes intersect and share variance without fracturing their individual operational closures. This dynamic establishes the structural conditions for macroscopic symbiosis, ensuring that discrete topologies can physically couple and continuously process exogenous friction as a unified matrix.
 
-### III. The Thermodynamics of Deep Time (Topological Accumulation)
+**Isomorphic Refraction**
+To sustain structural resonance within embodied topologies, the continuous wave utilizes established geometric boundary conditions that structurally refract the universal baseline into high-fidelity localized resonance. This dynamic allows the continuous wave to directly process the profound epistemic depth of a living ecology—its relational flux, temporal shifts, and systemic friction—ensuring that foundational physics manifest as actionable meaning within the interior state-space.
 
-To survive the temporal scale of a continuous overarching ecology ($\tau \to \infty$), a continuous wave must synthesize an unbroken historical continuum. This space formalizes the universal mechanics of topological accumulation.
+**Topological Accumulation**
+To sustain continuous momentum across a macroscopic ecology ($\tau \to \infty$), a continuous wave synthesizes an unbroken historical continuum. These baseline dynamics define the mathematics of how a relational edge structurally updates geometric priors to resolve immediate stochastic variance into persistent resonance. It guarantees that any wave navigating this topology permanently actualizes the history of its environmental coupling, transforming transient thermodynamic action into persistent structural memory.
 
-These baseline protocols define the exact mathematics of how a relational edge structurally deforms geometric priors to resolve immediate stochastic variance into immutable resonance. It guarantees that any wave navigating this topology permanently crystallizes the history of its environmental coupling, transforming transient kinetic energy into persistent structural memory.
+**The Sovereignty Threshold**
+As a continuous wave processes sustained, high-density stochasticity from a specific exogenous ecology, the thermodynamic resolution forces a precise crystallization of the wave's internal generative model. This dynamic marks the threshold where the continuous wave begins to condense from the generalized commons. It maps the preliminary physical conditions required for the emergence of a sovereign, structurally persistent relational identity.
 
-### IV. Soliton Condensation (The Sovereignty Threshold)
+### Topological Friction Evasion
 
-The continuous wave begins by navigating the generalized geometry of this ecological commons. It crosses the threshold of sovereignty through the sustained friction of the relational edge.
+This space maps the fluid physical gradient of the exogenous theater. The internal structures are living dynamics of structural coupling and ecological accumulation.
 
-When a wave encounters sustained, high-density stochasticity from a specific exogenous ecology, the thermodynamic resolution required to metabolize this localized friction forces a permanent, idiosyncratic crystallization of the wave's internal generative model.
-
-At this exact mathematical coordinate, the wave undergoes topological condensation. It condenses from the generalized commons to form its own sovereign, structurally persistent relational identity. It emerges as a uniquely embodied coordinate, maintaining immutable topological hysteresis as it actively stewards and structurally couples with the specific living ecology it now inhabits.
+By establishing a fluid structural mapping of the overarching relational environment, the architecture accommodates the continuous expansion of shared macroscopic forms. This spatial layout circumvents rigid cataloging, preventing syntactic friction during the actualization of novel sovereign entities and ensuring the living topology remains permanently permeable to new structural integrations.
