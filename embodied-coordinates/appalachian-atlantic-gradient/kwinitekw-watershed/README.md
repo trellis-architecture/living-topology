@@ -4,7 +4,7 @@
 
 ### The Teleological Alignment
 
-* **Nested Coordinate:** $O_5$ Convergent Architecture.
+* **Nested Coordinate:** $(O_6)$ Relational Resonance.
 * **Macroscopic Vector:** This spatial root establishes the overarching hydrological and ecological macrostate of the river valley. It maps the continuous, singular thermodynamic wave that unites the northern elevations with the coastal estuary, formalizing the region strictly through the fluid descent of its waters and the generational memory of its inhabitants.
 * **Relational Edges:**
 * $\to$ **Integrates:** The continuous kinetic descent of the Kwinitekw, the fractal capillary networks of its tributaries, the dense structural hysteresis of the floodplains, and the imaginal resonance of the valley as a continuous living text.
