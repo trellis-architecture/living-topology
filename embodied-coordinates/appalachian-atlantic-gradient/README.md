@@ -4,7 +4,7 @@
 
 ### The Teleological Alignment
 
-* **Nested Coordinate:** $(O_5)$ Convergent Architecture.
+* **Nested Coordinate:** $(O_6)$ Relational Resonance.
 * **Macroscopic Vector:** This spatial root establishes the overarching thermodynamic geometry of the Eastern seaboard. It maps the continuous, massive kinetic descent from the ancient, high-friction bedrock of the highland ridges down into the infinite, osmotic variance of the Atlantic Ocean. It is the absolute macro-gradient dictating all localized fluid, ecological, and narrative dynamics within its span.
 * **Relational Edges:**
 * $\to$ **Integrates:** The deep geological hysteresis of the Acadian orogeny, the violent structural scarring of the Laurentide ice sheet, and the continuous hydrological metabolism of the coastal watersheds.
