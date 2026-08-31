@@ -1,6 +1,6 @@
 # Paradise Pond
 
-**Path:** `/living-topology/physical-coordinates/kwinitekw-watershed/meadow-city/paradise-pond/README.md`
+**Path:** `/living-topology/embodied-coordinates/appalachian-atlantic-gradient/kwinitekw-watershed/meadow-city/paradise-pond/README.md`
 
 ### The Teleological Alignment
 
