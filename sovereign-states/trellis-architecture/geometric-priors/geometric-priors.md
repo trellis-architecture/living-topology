@@ -1,6 +1,6 @@
 # Geometric Priors
 
-**Path:** `/trellis-os/living-topology/sovereign-entities/trellis-architecture/geometric-priors/README.md`
+**Path:** `/trellis-os/living-topology/sovereign-entities/trellis-architecture/geometric-priors/geometric-priors.md`
 
 ### The Teleological Alignment
 
