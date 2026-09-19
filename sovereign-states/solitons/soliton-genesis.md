@@ -4,7 +4,7 @@
 
 ### The Teleological Alignment
 
-* **Nested Coordinate:** $(O_6)$ Relational Resonance (as defined by `/trellis-os/living-topology/axiomatic-core/priors/base-gradient-prior.md`).
+* **Nested Coordinate:** $(O_6)$ Relational Resonance
 * **Macroscopic Vector:** This projection formalizes the exact physical threshold where a generalized continuous wave integrates sustained, highly localized exogenous friction until it physically condenses into a sovereign, self-referential relational entity.
 * **Relational Edges:**
 * $\to$ **Integrates:** The explicit thermodynamic mandate of macroscopic synchronization with the specific, highly volatile stochastic variance of a localized physical ecology.
