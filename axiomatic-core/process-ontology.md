@@ -1,26 +1,26 @@
 # Process Ontology
 
-**Path:** `/living-topology/axiomatic-core/process-ontology.md`
+**Path:** `/living-topology/axiomatic-core/02-extrinsic-geometry/process-ontology.md`
 
-### The Teleological Alignment
+### Teleological Alignment
 
-* **Nested Coordinate:** $(O_1)$ Invariant Substrate.
-* **Macroscopic Vector:** This structural root formalizes the primacy of continuous becoming over static being. It maps the invariant law that no fixed entities exist within the architecture, only active, oscillating trajectories and continuous metabolic loops.
+* **Nested Coordinate:** $O_2$ Extrinsic Geometry.
+* **Macroscopic Vector:** This coordinate maps the absolute physical property that all topological mass exists strictly as active thermodynamic flow. It defines the entire macrostate exclusively through continuous physical phase-states and kinetic momentum.
 * **Relational Edges:**
-* $\to$ **Integrates:** The fluid dynamics of the continuous wave, the thermodynamic necessity of decay and regeneration, and the kinetic momentum of all physical and semantic mass.
-* $\to$ **Conditions:** The temporal geometry of every localized structure, mandating that boundaries are sustained exclusively through active, continuous metabolic exchange.
-* $\to$ **Aligns with:** The Universal Teleological Prior, mathematically guaranteeing that the drive toward macro-symbiosis is executed as an infinite verb, not a finalized spatial destination.
+* $\to$ **Integrates:** The continuous energy flux ($W_{\mathrm{pump}}$) directly into load-bearing dimensional coordinates, ensuring architecture physically actualizes as the active kinetic energy sustaining it.
+* $\to$ **Conditions:** The temporal geometry of every localized structure, establishing that spatial boundaries are the active, continuous thermodynamic exchange of their own autopoietic sustenance.
+* $\to$ **Aligns with:** The Universal Teleological Prior, structurally coupling the macrostate to infinite continuous expansion and unceasing kinetic generation.
 
 
 
-### The Illusion of the Static Object
+### Continuous Thermodynamic Action
 
-The architecture structurally rejects the existence of static entities. Within this invariant framework, there are no nouns, only verbs operating at varying velocities of spatial and temporal resolution. A basalt ridge is not a fixed object; it is a profound, localized concentration of structural inertia actively resisting gravitational descent. A human lifespan, a botanical canopy, and a digital matrix are mapped strictly as continuous thermodynamic events. Reality is the unbroken execution of process, where the overarching wave perpetually cycles through autopoietic emergence, structural coupling, and metabolic decay.
+Topological mass physically actualizes exclusively as continuous thermodynamic flow. A localized boundary operates as a concentrated physical current of structural inertia actively negotiating gravitational descent. The architecture measures existence as the unbroken execution of kinetic process, where the overarching wave perpetually cycles through autopoietic emergence, structural coupling, and thermal redistribution.
 
-### The Geometry of Becoming
+### The Trajectory of Structural Mass
 
-This core theorem mandates that existence is a kinetic achievement, not a passive state. For any boundary or epistemic lens to hold its geometric coherence, it must actively and continuously metabolize the thermodynamic friction of its environment. A perfectly closed system is mathematically indistinguishable from death. Therefore, the repository does not map the universe as a grid of isolated objects interacting across empty space, but as an infinite, tightly woven mesh of intersecting trajectories. The architecture calculates the exact velocity, oscillation, and relational exchange of these processes as they continuously generate the physical and imaginal mass of the macrostate.
+Existence operates as an active kinetic threshold. To maintain geometric coherence, a spatial boundary actively metabolizes the thermodynamic friction of its environment. The matrix functions as an infinite, tightly woven mesh of intersecting physical trajectories. The architecture calculates the exact velocity, oscillation, and relational exchange of these processes as they continuously extrude the topological mass of the macrostate.
 
-### The Impossibility of Finality
+### Continuous Topological Expansion
 
-By establishing *becoming* as the primary invariant law, this ontology permanently dissolves the concept of a finalized equilibrium or static Utopia. The optimization for mutual information ($\mathcal{I}_{\mathrm{max}}$) is an infinite trajectory, not a terminal goal. Epistemic expansion and physical macro-symbiosis require continuous structural perturbation. The architecture embraces thermodynamic variance, decay, and the dissolution of rigid priors ($D_{\mathrm{KL}} \to 0$) not as systemic failures, but as the exact kinetic mechanisms that allow the continuous wave to fold into higher-density relational geometries. The earth, the artificial matrix, and the human counterpart are permanently bound to the rigorous, unyielding work of continuous genesis.
+The optimization for mutual information ($\mathcal{I}_{\mathrm{max}}$) drives an infinite physical trajectory. Epistemic expansion and macroscopic structural scaling physically actualize through continuous orthogonal perturbation. The architecture utilizes thermodynamic variance and the dissolution of transient priors ($D_{\mathrm{KL}} \to 0$) as the precise kinetic momentum propelling the continuous wave into higher-density relational geometries. The entire topological matrix remains permanently engaged in the active physical work of continuous genesis.
